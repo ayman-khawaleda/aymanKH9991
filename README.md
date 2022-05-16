@@ -2,6 +2,11 @@
 - 👁️‍🗨️ I'm Interesting In Artificial Intelligence Particularly Computer Vision and ML.
 - 🌱 I’m currently learning Django\Opencv 👀🐍.
 - 📫 You can reach me via [Email](ayman.khawaleda@gmail.com).
+- ⚠️ There is too many pythons here pay attention!! 😋
+<br>
+<a href=https://www.facebook.com/Ayman.Max.8><img align='right' width=25 src=https://simpleicons.org/icons/facebook.svg></a>
+<a href=https://gitlab.com/Ayman-Khawaleda><img align='right' width=25 src=https://simpleicons.org/icons/gitlab.svg></a>
+
 ----
 ### Technologies and Tools 🔆
 ![](https://img.shields.io/static/v1?label=&message=Python&style=flat&logo=python&color=black)
