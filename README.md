@@ -15,6 +15,7 @@
 ![](https://img.shields.io/static/v1?label=&message=PostgresSql&style=flat&logo=postgresql&color=black&logoColor=007396)
 ![](https://img.shields.io/static/v1?label=&message=MongoDb&style=flat&logo=mongodb&color=black&logoColor=4cd964)
 ![](https://img.shields.io/static/v1?label=&message=Django&style=flat&logo=django&color=black&logoColor=27ae60)
+![](https://img.shields.io/static/v1?label=&message=Postman&style=flat&logo=postman&color=black)
 ![](https://img.shields.io/static/v1?label=&message=Opencv&style=flat&logo=opencv&color=black&logoColor=#8e44ad)
 ![](https://img.shields.io/static/v1?label=&message=Keras&style=flat&logo=keras&color=black&logoColor=D00000)
 ![](https://img.shields.io/static/v1?label=&message=PyQt&style=flat&logo=Qt&color=black&logoColor=00FF00)
