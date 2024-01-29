@@ -31,7 +31,7 @@
 
 ----
 ### Stats
-[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanKH9991&show_icons=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-khawaleda&show_icons=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanKH9991&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-khawaleda&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
